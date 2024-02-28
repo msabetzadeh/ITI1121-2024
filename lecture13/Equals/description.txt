@@ -1,0 +1,1 @@
+Write an equals(...) method for the ArrayContainer class. This class has a single instance variable called array, which is an array of String objects.
